@@ -33,3 +33,7 @@ console.log(average);
 
  remainder = givenNumber % 5;
  console.log(remainder);
+
+ var i = 0;
+for (i=0; i<5; i++){};
+console.log(i);
